@@ -15,7 +15,7 @@
 
 ### 📋[Artifact Narrative](https://bitbucket.org/the_citadel/eportfolio/downloads/Ogedengbe_CS499-FinalProjectArtifactNarrative.docx)
 
-### The purpose of this project artifact narrative is to provide deeper clarification on what the included project is, why it was included and what I learned and brought to the table in order to design and produce the end results. 
+### The purpose of this project artifact narrative is to provide deeper clarification on what the included project is, and why it was included in this portfolio. It will put on display what I learned and what I needed to bring to the table in order to design and produce the end results presented here. 
 
 
 

@@ -7,8 +7,6 @@
 
 ### **SELF-ASSESSMENT:** 
 
-### 📋[Read Document](https://bitbucket.org/the_citadel/eportfolio/downloads/Ogedengbe_CS499-FinalProjectProfessionalSelf-Assessment.pdf)
-
 ### 📋[My Self-Assessment](https://bitbucket.org/the_citadel/eportfolio/downloads/Ogedengbe_CS499-FinalProjectProfessionalSelf-Assessment.docx)
 
 ### The purpose of this self-assessment is to provide a detailed commentary of my growth and evolution as a computer science student and recent graduate. My time in the program has provided me with the opportunity to learn and practice many new skills. This self-assessment will highlight these skills and the opportunties I plan to pursue as I continue this journey. 

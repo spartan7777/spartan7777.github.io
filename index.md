@@ -7,7 +7,7 @@
 
 ### **SELF-ASSESSMENT:** 
 
-### Self-Assessment Link [Self-Assessment:](https://github.com/spartan7777/spartan7777.github.io/blob/main/Ogedengbe_CS499-FinalProjectProfessionalSelf-Assessment.docx)
+### Self-Assessment Link: [My Self-Assessment](https://github.com/spartan7777/spartan7777.github.io/blob/main/Ogedengbe_CS499-FinalProjectProfessionalSelf-Assessment.docx)
 
 ### The purpose of this self-assessment is to provide a detailed commnetary of my growth and evolution as a computer science student and recent graduate. My time in the program has provided me with the opportunity to learn and practice many new skills. This self-assessment will highlight these skills and the opportunties I plan to pursue as I continue this journey. 
 

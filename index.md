@@ -17,6 +17,12 @@
 
 ### The purpose of this project artifact narrative is to provide deeper clarification on what the included project is, and why it was included in this portfolio. It will put on display what I learned and what I needed to bring to the table in order to design and produce the end results presented here. 
 
+### **CODE REVIEW:**
+
+### The video provided here will present a dive into the thinking behind the design of the original project. The idea of this code review is to show what the original building blocks for this project looked like and to highlight the changes and updates that would be part of the project redesign. 
+
+### 📹 [Code Review Video](https://bitbucket.org/the_citadel/eportfolio/downloads/Ogedengbe_CS499-CodeReview.mp4)
+
 
 
 

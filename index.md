@@ -60,10 +60,11 @@
 ### 📹 Revised Project Screen Tour Video:
 <video width="100%" controls>
   <source src="https://bitbucket.org/the_citadel/eportfolio/downloads/PowerPoint-RevisedCompendium_Movie-2.mp4">
-</video>\  
+</video> 
 
 
 
+.  
 
 ### All content, text, and design for the projects attached are my own, except for the page illustrations and backgrounds as noted. 
 ### Thank you to the faculty of Southern New Hampshire University and all of my peers who supported my work.

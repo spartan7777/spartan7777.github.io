@@ -25,6 +25,8 @@
 
 ### 📹 [Code Review Video](https://bitbucket.org/the_citadel/eportfolio/downloads/Ogedengbe_CS499-CodeReview.mp4){:target="_blank"}
 
+### <a href="https://bitbucket.org/the_citadel/eportfolio/downloads/Ogedengbe_CS499-CodeReview.mp4" target="_blank">Code Review Video</a>
+
 
 
 

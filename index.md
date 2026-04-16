@@ -24,7 +24,7 @@
 ### The video provided here will present a look into the thinking behind the design of the original project. The idea of this code review is to show what the original building blocks for this project looked like and to highlight the changes and updates that would be part of the project redesign. 
 
 ### 📹 Code Review Video:
-<video width="65%" controls>
+<video width="85%" controls>
   <source src="https://bitbucket.org/the_citadel/eportfolio/downloads/Ogedengbe_CS499-CodeReview.mp4">
 </video>
 
@@ -41,7 +41,7 @@
 ### This video provides a real time tour of the original project's various screen placement and purpose. The goal for this video is to give you an idea of what engagment with the application would have been like under the original design. 
 
 ### 📹 Original Project Screen Tour Video:
-<video width="65%" controls>
+<video width="85%" controls>
   <source src="https://bitbucket.org/the_citadel/eportfolio/downloads/PowerPoint-OriginalCompendium_Movie-1.mp4">
 </video>
 
@@ -58,7 +58,7 @@
 ### This video provides another real time tour of the project's various screen placement and purpose, but this time of the revised version. The purpose of this video is to illustrate what engagment with the revised application looks like and to highlight the design updates and process simplifications that are prevalent in the new version.  
 
 ### 📹 Revised Project Screen Tour Video:
-<video width="65%" controls>
+<video width="85%" controls>
   <source src="https://bitbucket.org/the_citadel/eportfolio/downloads/PowerPoint-RevisedCompendium_Movie-2.mp4">
 </video>
 

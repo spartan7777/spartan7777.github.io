@@ -7,9 +7,7 @@
 
 ### **SELF-ASSESSMENT:** 
 
-<iframe src="https://bitbucket.org/the_citadel/eportfolio/downloads/Ogedengbe_CS499-FinalProjectProfessionalSelf-Assessment.pdf" 
-        style="width:600px; height:500px;" frameborder="0">
-</iframe>
+### 📋[Read Document](https://bitbucket.org/the_citadel/eportfolio/downloads/Ogedengbe_CS499-FinalProjectProfessionalSelf-Assessment.pdf)
 
 ### 📋[My Self-Assessment](https://bitbucket.org/the_citadel/eportfolio/downloads/Ogedengbe_CS499-FinalProjectProfessionalSelf-Assessment.docx)
 

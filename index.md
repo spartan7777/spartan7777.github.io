@@ -27,6 +27,11 @@
 
 ### <a href="https://bitbucket.org/the_citadel/eportfolio/downloads/Ogedengbe_CS499-CodeReview.mp4" target="_blank">Code Review Video</a>
 
+<video width="100%" controls>
+  <source src="https://bitbucket.org/the_citadel/eportfolio/downloads/Ogedengbe_CS499-CodeReview.mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 
 

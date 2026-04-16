@@ -21,15 +21,18 @@
 
 ### The video provided here will present a look into the thinking behind the design of the original project. The idea of this code review is to show what the original building blocks for this project looked like and to highlight the changes and updates that would be part of the project redesign. 
 
-### 📹 [Code Review Video](https://bitbucket.org/the_citadel/eportfolio/downloads/Ogedengbe_CS499-CodeReview.mp4)
-
-### 📹 [Code Review Video](https://bitbucket.org/the_citadel/eportfolio/downloads/Ogedengbe_CS499-CodeReview.mp4){:target="_blank"}
-
-### <a href="https://bitbucket.org/the_citadel/eportfolio/downloads/Ogedengbe_CS499-CodeReview.mp4" target="_blank">Code Review Video</a>
-
+### 📹 Code Review Video:
 <video width="100%" controls>
   <source src="https://bitbucket.org/the_citadel/eportfolio/downloads/Ogedengbe_CS499-CodeReview.mp4">
-  Your browser does not support the video tag.
+</video>
+
+### **ORIGINAL PROJECT SCREEN REVIEW:**
+
+## This video provides a real time tour of the original project's various screen placement and purpose. The goal for this video is to give you an idea of what engagment with the application would have been like under the original design. 
+
+### 📹 Original Project Screen Tour:
+<video width="65%" controls>
+  <source src="https://bitbucket.org/the_citadel/eportfolio/downloads/PowerPoint-OriginalCompendium_Movie-1.mp4">
 </video>
 
 

@@ -26,23 +26,42 @@
   <source src="https://bitbucket.org/the_citadel/eportfolio/downloads/Ogedengbe_CS499-CodeReview.mp4">
 </video>
 
-### **ORIGINAL PROJECT SCREEN REVIEW:**
+### **ORIGINAL PROJECT CATALOG:**
+
+### **Original Project Code Files:**
+
+### This link provides access to the original Java class files for the project. These class files contain code for various internal objects for the application as well as Data Access Objects used to provide the functionality needed with a database.  
+
+### 📋[Original Code Files](https://bitbucket.org/the_citadel/eportfolio/downloads/Ogedengbe_CS499-Original_Artifact.zip)
+
+### **Original Project Video:**
 
 ### This video provides a real time tour of the original project's various screen placement and purpose. The goal for this video is to give you an idea of what engagment with the application would have been like under the original design. 
 
-### 📹 Original Project Screen Tour:
+### 📹 Original Project Screen Tour Video:
 <video width="65%" controls>
   <source src="https://bitbucket.org/the_citadel/eportfolio/downloads/PowerPoint-OriginalCompendium_Movie-1.mp4">
 </video>
 
-### **REVISED PROJECT SCREEN REVIEW:**
+### **REVISED PROJECT CATALOG:**
+
+### **Revised Project Code Files:**
+
+### This link provides access to the new Python and Flask code files for the project. 
+
+### 📋[Revised Code Files](https://bitbucket.org/the_citadel/eportfolio/downloads/Ogedengbe_CS499-FinalProject.zip)
+
+### **Revised Project Video:**
 
 ### This video provides another real time tour of the project's various screen placement and purpose, but this time of the revised version. The purpose of this video is to illustrate what engagment with the revised application looks like and to highlight the design updates and process simplifications that are prevalent in the new version.  
 
-### 📹 Revised Project Screen Tour:
+### 📹 Revised Project Screen Tour Video:
 <video width="65%" controls>
   <source src="https://bitbucket.org/the_citadel/eportfolio/downloads/PowerPoint-RevisedCompendium_Movie-2.mp4">
 </video>
+
+
+### Tosan Ogedengbe, April 2026
 
 
 

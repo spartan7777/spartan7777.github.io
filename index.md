@@ -28,7 +28,7 @@
 
 ### **ORIGINAL PROJECT SCREEN REVIEW:**
 
-## This video provides a real time tour of the original project's various screen placement and purpose. The goal for this video is to give you an idea of what engagment with the application would have been like under the original design. 
+### This video provides a real time tour of the original project's various screen placement and purpose. The goal for this video is to give you an idea of what engagment with the application would have been like under the original design. 
 
 ### 📹 Original Project Screen Tour:
 <video width="65%" controls>

@@ -63,6 +63,7 @@
 </video>
 
 
+### 
 ### All content, text, and design for the projects attached are my own, except for the page illustrations and backgrounds as noted. 
 ### Thank you to the faculty of Southern New Hampshire University and all of my peers who supported my work.
 

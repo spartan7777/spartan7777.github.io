@@ -7,6 +7,10 @@
 
 ### **SELF-ASSESSMENT:** 
 
+<iframe src="https://bitbucket.org/the_citadel/eportfolio/downloads/Ogedengbe_CS499-FinalProjectProfessionalSelf-Assessment.pdf" 
+        style="width:600px; height:500px;" frameborder="0">
+</iframe>
+
 ### 📋[My Self-Assessment](https://bitbucket.org/the_citadel/eportfolio/downloads/Ogedengbe_CS499-FinalProjectProfessionalSelf-Assessment.docx)
 
 ### The purpose of this self-assessment is to provide a detailed commentary of my growth and evolution as a computer science student and recent graduate. My time in the program has provided me with the opportunity to learn and practice many new skills. This self-assessment will highlight these skills and the opportunties I plan to pursue as I continue this journey. 
@@ -22,7 +26,7 @@
 ### The video provided here will present a look into the thinking behind the design of the original project. The idea of this code review is to show what the original building blocks for this project looked like and to highlight the changes and updates that would be part of the project redesign. 
 
 ### 📹 Code Review Video:
-<video width="100%" controls>
+<video width="65%" controls>
   <source src="https://bitbucket.org/the_citadel/eportfolio/downloads/Ogedengbe_CS499-CodeReview.mp4">
 </video>
 
@@ -33,6 +37,15 @@
 ### 📹 Original Project Screen Tour:
 <video width="65%" controls>
   <source src="https://bitbucket.org/the_citadel/eportfolio/downloads/PowerPoint-OriginalCompendium_Movie-1.mp4">
+</video>
+
+### **REVISED PROJECT SCREEN REVIEW:**
+
+### This video provides another real time tour of the project's various screen placement and purpose, but this time of the revised version. The purpose of this video is to illustrate what engagment with the revised application looks like and to highlight the design updates and process simplifications that are prevalent in the new version.  
+
+### 📹 Revised Project Screen Tour:
+<video width="65%" controls>
+  <source src="https://bitbucket.org/the_citadel/eportfolio/downloads/PowerPoint-RevisedCompendium_Movie-2.mp4">
 </video>
 
 
